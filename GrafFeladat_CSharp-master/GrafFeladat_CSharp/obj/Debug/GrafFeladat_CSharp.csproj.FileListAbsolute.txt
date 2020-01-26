@@ -1,0 +1,7 @@
+C:\Users\Csabamagus\Desktop\GrafFeladat_CSharp-master\GrafFeladat_CSharp\bin\Debug\GrafFeladat_CSharp.exe.config
+C:\Users\Csabamagus\Desktop\GrafFeladat_CSharp-master\GrafFeladat_CSharp\bin\Debug\GrafFeladat_CSharp.exe
+C:\Users\Csabamagus\Desktop\GrafFeladat_CSharp-master\GrafFeladat_CSharp\bin\Debug\GrafFeladat_CSharp.pdb
+C:\Users\Csabamagus\Desktop\GrafFeladat_CSharp-master\GrafFeladat_CSharp\obj\Debug\GrafFeladat_CSharp.csprojAssemblyReference.cache
+C:\Users\Csabamagus\Desktop\GrafFeladat_CSharp-master\GrafFeladat_CSharp\obj\Debug\GrafFeladat_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Csabamagus\Desktop\GrafFeladat_CSharp-master\GrafFeladat_CSharp\obj\Debug\GrafFeladat_CSharp.exe
+C:\Users\Csabamagus\Desktop\GrafFeladat_CSharp-master\GrafFeladat_CSharp\obj\Debug\GrafFeladat_CSharp.pdb
